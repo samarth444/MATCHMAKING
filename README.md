@@ -18,6 +18,7 @@ match, all the users are logged in and queued un l
 or unless there is a perfect match.  
 Intuiter and Master are aliased as Guesser and 
 Decider for sake simplicity and understanding. 
+
 FEAUTURES OF PROJECT:  
 1. Implemented in Python Programming 
 Language using Python Sockets  
